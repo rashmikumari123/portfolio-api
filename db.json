@@ -1,26 +1,60 @@
 {
   "projects": [
+    
     {
       "id": 1,
-      "name": "Portfolio Website",
-      "description": "A personal portfolio website showcasing my work and skills.",
-      "image": "https://example.com/images/portfolio.png",
-      "link": "https://example.com/portfolio",
-      "github": "https://github.com/username/portfolio",
-      "tech_stack": ["HTML", "CSS", "JavaScript"],
-      "year": 2025,
-      "category": "Website"
-    },
-    {
-      "id": 2,
-      "name": "Task Manager App",
-      "description": "A to-do list application with task filtering and completion tracking.",
-      "image": "https://example.com/images/taskmanager.png",
-      "link": "https://example.com/taskmanager",
-      "github": "https://github.com/username/taskmanager",
-      "tech_stack": ["React", "Node.js", "MongoDB"],
-      "year": 2025,
+      "name": "Restaurant Reservation System",
+      "description": "A MERN stack web app for managing restaurant table reservations, with online booking and a contact form to handle customer inquiries.",
+      "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/res-mern.png",
+      "link": "https://restaurant-mern-stack.netlify.app/",
+      "github": "",
+      "tech_stack": ["MongoDB", "Express.js", "React", "Node.js", "Bootstrap"],
       "category": "Web App"
-    }
+    },
+    
+    {
+     "id": 2,
+     "name": "Amazon Clone",
+     "description": "A static Amazon clone built using HTML and CSS, replicating the homepage layout and design.",
+     "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/amazon-clone.png",
+     "link": "https://amazon-ui-project.netlify.app/",
+     "github": "",
+     "tech_stack": ["HTML", "CSS"],
+     "category": "Frontend"
+    },
+    
+    {
+     "id": 3,
+     "name": "SilverSpoon Restaurant Website",
+     "description": "A responsive restaurant website built using HTML, CSS, and JavaScript, featuring menu sections and a contact form for customer inquiries.",
+     "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/silver-spoon.png",
+     "link": "https://silverspoon-restaurant.netlify.app/",
+     "github": "",
+     "tech_stack": ["HTML", "CSS", "JavaScript"],
+     "category": "Frontend"
+   },
+
+   {
+  "id": 4,
+  "name": "Todo App",
+  "description": "A simple and interactive task management app built with React, featuring real-time date and time display, task addition, completion, and deletion, along with a 'Clear All' option.",
+  "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/todo-list.png",
+  "link": "https://todo-app-rashmi.netlify.app/",
+  "github": "",
+  "tech_stack": ["React", "JavaScript", "CSS"],
+  "category": "Frontend"
+ },
+    
+ {
+  "id": 5,
+  "name": "Tic Tac Toe",
+  "description": "A classic Tic Tac Toe game built with HTML, CSS, and JavaScript, featuring a responsive layout, player turn tracking, and a reset button for replaying.",
+  "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/tic-tac-toe.png",
+  "link": "https://tictactoe-ui-project.netlify.app/",
+  "github": "",
+  "tech_stack": ["HTML", "CSS", "JavaScript"],
+  "category": "Frontend"
+}
+
   ]
 }
