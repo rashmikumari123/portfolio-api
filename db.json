@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Portfolio Website",
+      "description": "A personal portfolio website showcasing my work and skills.",
+      "image": "https://example.com/images/portfolio.png",
+      "link": "https://example.com/portfolio",
+      "github": "https://github.com/username/portfolio",
+      "tech_stack": ["HTML", "CSS", "JavaScript"],
+      "year": 2025,
+      "category": "Website"
+    },
+    {
+      "id": 2,
+      "name": "Task Manager App",
+      "description": "A to-do list application with task filtering and completion tracking.",
+      "image": "https://example.com/images/taskmanager.png",
+      "link": "https://example.com/taskmanager",
+      "github": "https://github.com/username/taskmanager",
+      "tech_stack": ["React", "Node.js", "MongoDB"],
+      "year": 2025,
+      "category": "Web App"
+    }
+  ]
+}
