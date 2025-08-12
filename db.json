@@ -7,8 +7,8 @@
       "description": "A MERN stack web app for managing restaurant table reservations, with online booking and a contact form to handle customer inquiries.",
       "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/res-mern.png",
       "link": "https://restaurant-mern-stack.netlify.app/",
-      "github": "",
-      "tech_stack": ["MongoDB", "Express.js", "React", "Node.js", "Bootstrap"],
+      "github": "https://github.com/rashmikumari123/Restuarant_MERN-Stack_Project",
+      "tech_stack": ["MongoDB", "Express.js", "React", "Node.js"],
       "category": "Web App"
     },
     
@@ -18,7 +18,7 @@
      "description": "A static Amazon clone built using HTML and CSS, replicating the homepage layout and design.",
      "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/amazon-ui.png",
      "link": "https://amazon-ui-project.netlify.app/",
-     "github": "",
+     "github": "https://github.com/rashmikumari123/amazon-frontend_clone",
      "tech_stack": ["HTML", "CSS"],
      "category": "Frontend"
     },
@@ -29,7 +29,7 @@
      "description": "A responsive restaurant website built using HTML, CSS, and JavaScript, featuring menu sections and a contact form for customer inquiries.",
      "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/restaurant-ui.png",
      "link": "https://silverspoon-restaurant.netlify.app/",
-     "github": "",
+     "github": "https://github.com/rashmikumari123/first_project",
      "tech_stack": ["HTML", "CSS", "JavaScript"],
      "category": "Frontend"
    },
@@ -51,7 +51,7 @@
   "description": "A classic Tic Tac Toe game built with HTML, CSS, and JavaScript, featuring a responsive layout, player turn tracking, and a reset button for replaying.",
   "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/tic-tac-toe.png",
   "link": "https://tictactoe-ui-project.netlify.app/",
-  "github": "",
+  "github": "https://github.com/rashmikumari123/tictactoe-js-project",
   "tech_stack": ["HTML", "CSS", "JavaScript"],
   "category": "Frontend"
 }
