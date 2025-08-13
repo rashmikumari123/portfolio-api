@@ -54,7 +54,19 @@
   "github": "https://github.com/rashmikumari123/tictactoe-js-project",
   "tech_stack": ["HTML", "CSS", "JavaScript"],
   "category": "Frontend"
+},
+{
+  "id": 6,
+  "name": "React Portfolio Website",
+  "description": "A personal portfolio website built with React and CSS, showcasing my skills, projects, and contact information. Fully responsive and deployed on Netlify.",
+  "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/portfolio.png",
+  "link": "https://rashmi-react-portfolio.netlify.app/",
+  "github": "https://github.com/rashmikumari123/my-portfolio",
+  "tech_stack": ["React", "CSS"],
+  "category": "Frontend"
 }
+
+    
 
   ]
 }
