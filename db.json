@@ -1,8 +1,18 @@
 {
   "projects": [
+    {
+       "id": 1,
+      "name": "Job Portal",
+      "description": "Developed a comprehensive job portal web application using the MERN stack.Connected job seekers with employers through secure user authentication.",
+      "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/jp.png",
+      "link": "",
+      "github": "",
+      "tech_stack": ["MongoDB", "Express.js", "React", "Node.js"],
+      "category": "Web App"
+    }
     
     {
-      "id": 1,
+      "id": 2,
       "name": "Restaurant Reservation System",
       "description": "A MERN stack web app for managing restaurant table reservations, with online booking and a contact form to handle customer inquiries.",
       "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/res-mern.png",
@@ -13,7 +23,7 @@
     },
     
     {
-     "id": 2,
+     "id": 3,
      "name": "Amazon Clone",
      "description": "A static Amazon clone built using HTML and CSS, replicating the homepage layout and design.",
      "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/amazon-ui.png",
@@ -24,7 +34,7 @@
     },
     
     {
-     "id": 3,
+     "id": 4,
      "name": "SilverSpoon Restaurant Website",
      "description": "A responsive restaurant website built using HTML, CSS, and JavaScript, featuring menu sections and a contact form for customer inquiries.",
      "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/restaurant-ui.png",
@@ -35,7 +45,7 @@
    },
 
    {
-  "id": 4,
+  "id": 5,
   "name": "Todo App",
   "description": "A simple and interactive task management app built with React, featuring real-time date and time display, task addition, completion, and deletion, along with a 'Clear All' option.",
   "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/todo-app.png",
@@ -46,7 +56,7 @@
  },
     
  {
-  "id": 5,
+  "id": 6,
   "name": "Tic Tac Toe",
   "description": "A classic Tic Tac Toe game built with HTML, CSS, and JavaScript, featuring a responsive layout, player turn tracking, and a reset button for replaying.",
   "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/tic-tac-toe.png",
@@ -56,7 +66,7 @@
   "category": "Frontend"
 },
 {
-  "id": 6,
+  "id": 7,
   "name": "React Portfolio Website",
   "description": "A personal portfolio website built with React and CSS, showcasing my skills, projects, and contact information. Fully responsive and deployed on Netlify.",
   "image": "https://raw.githubusercontent.com/rashmikumari123/portfolio-api/refs/heads/main/images/portfolio.png",
